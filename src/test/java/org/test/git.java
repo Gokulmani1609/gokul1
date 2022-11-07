@@ -14,7 +14,12 @@ public class git {
 		System.out.println("test4");
 		System.out.println("test5");
 		System.out.println("test6");
+    }
+	
+	private void test2() {
 
-
+		System.out.println("Gokul");
 	}
+	
+	
 }
